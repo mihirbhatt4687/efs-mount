@@ -20,4 +20,4 @@ cd ..
 sudo mkdir efs
 sudo mount -t efs EFS_FILE_SYSTEM_ID efs/
 ```
-> **Note** : EFS_FILE_SYSTEM_ID looks something like fs-05f0e931af63cf504
+> **Note** : EFS_FILE_SYSTEM_ID looks something like **fs-05f0e931af63cf504**
